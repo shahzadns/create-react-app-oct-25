@@ -4,8 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1>hello react project! !</h1>
+
+      
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>this is our new para.. editing the index.html</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -17,7 +21,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
